@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "../../connect-four-oo"
+		},
+		{
+			"path": "../../jquery-dom"
+		},
+		{
+			"path": "../../how-web-works/AJAX"
+		},
+		{
+			"path": "../../how-web-works/apis-tvmaze"
+		},
+		{
+			"path": "../../Jeopardy Assessment/section-1"
+		},
+		{
+			"path": "../../Python/python-syntax"
+		},
+		{
+			"path": "../../Python/python-ds-practice"
+		},
+		{
+			"path": "../../Python/python-oo-practice"
+		},
+		{
+			"path": "../../Flask"
+		},
+		{
+			"path": "../../hack-or-snooze-ajax-api"
+		},
+		{
+			"path": "../../../../Java"
+		}
+	],
+	"settings": {}
+}
